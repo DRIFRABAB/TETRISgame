@@ -1,0 +1,17 @@
+#resultat{
+    display: inline-block;
+}
+div{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: monospace;
+    text-align: center;
+}
+body{
+    background-color: rgb(180, 180, 131);
+}
+
+canvas{
+    display: block;
+    margin: auto;
+}
